@@ -32,7 +32,7 @@ rxversion="7.2">
 		<loggingrecorditem
 		category="User"
 		enabled="True"
-		message="Success"
+		message="Success+"
 		optional="False"
 		reportlevel="Success;110"
 		searchpropertyid="27948d38-e596-4e74-b2d2-4b24c55512f4">

@@ -2,12 +2,12 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 # Ranorex Studio 7.2
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jenkinstest", "jenkinstest\jenkinstest.csproj", "{FFCD5F74-24AF-47C0-ACE6-CD961213148A}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{852E2F78-2C5E-4330-9099-757A311402F2}"
 	ProjectSection(SolutionItems) = postProject
 		Ranorex = .\Ranorex.rxsettings
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jenkinstest", "jenkinstest\jenkinstest.csproj", "{FFCD5F74-24AF-47C0-ACE6-CD961213148A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

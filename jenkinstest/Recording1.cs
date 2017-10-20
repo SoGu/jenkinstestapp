@@ -79,7 +79,7 @@ namespace jenkinstest
 
             Init();
 
-            Report.Log(ReportLevel.Success, "User", "Success", new RecordItemIndex(0));
+            Report.Log(ReportLevel.Success, "User", "Success+", new RecordItemIndex(0));
             
         }
 
