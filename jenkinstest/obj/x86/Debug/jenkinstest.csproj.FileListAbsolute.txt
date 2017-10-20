@@ -1,0 +1,9 @@
+C:\Users\tgruber\Documents\Ranorex\RanorexStudio Projects\jenkinstest\jenkinstest\bin\Debug\jenkinstest.rxtmg
+C:\Users\tgruber\Documents\Ranorex\RanorexStudio Projects\jenkinstest\jenkinstest\bin\Debug\jenkinstest.rxtst
+C:\Users\tgruber\Documents\Ranorex\RanorexStudio Projects\jenkinstest\jenkinstest\bin\Debug\jenkinstest.exe.config
+C:\Users\tgruber\Documents\Ranorex\RanorexStudio Projects\jenkinstest\jenkinstest\bin\Debug\jenkinstest.exe
+C:\Users\tgruber\Documents\Ranorex\RanorexStudio Projects\jenkinstest\jenkinstest\bin\Debug\jenkinstest.pdb
+C:\Users\tgruber\Documents\Ranorex\RanorexStudio Projects\jenkinstest\jenkinstest\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\tgruber\Documents\Ranorex\RanorexStudio Projects\jenkinstest\jenkinstest\obj\x86\Debug\jenkinstest.csprojResolveAssemblyReference.cache
+C:\Users\tgruber\Documents\Ranorex\RanorexStudio Projects\jenkinstest\jenkinstest\obj\x86\Debug\jenkinstest.exe
+C:\Users\tgruber\Documents\Ranorex\RanorexStudio Projects\jenkinstest\jenkinstest\obj\x86\Debug\jenkinstest.pdb

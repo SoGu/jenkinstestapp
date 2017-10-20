@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="jenkinstestRepository"
+id="582f06f4-9741-469f-8009-e35c022faf70"
+rxversion="7.2">
+  <codegen
+  classname="jenkinstestRepository"
+  namespace="jenkinstest"/>
+  <rootfolder
+  name="Root"
+  id="2b4b63fb-8964-4019-9412-6005ccaee15e"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>
